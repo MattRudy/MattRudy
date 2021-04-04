@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable.
+
+Check out some of my favourite Repos that I've contributed to:
+- https://github.com/TabularEditor/BestPracticeRules
+- https://github.com/deldersveld/PowerBI-ThemeTemplates
+
 <!--
 **MattRudy/MattRudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
