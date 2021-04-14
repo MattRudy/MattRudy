@@ -1,4 +1,5 @@
-##Wow! If you're here, you've found a secret!
+## Wow! If you're here, you've found a secret!
+
 
            /\
           /  \
@@ -13,6 +14,7 @@
  /        \  /        \
 /__________\/__________\
 \__________/\__________/
+
 
 This page is my personal shortcut to anything I want to opemn quickly. Feel free to look around!
 
