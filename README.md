@@ -1,4 +1,4 @@
-### Hi there [👋](https://github.com/MattRudy/WhatDoIHave/blob/main/README.md)
+### Hi there [👋](https://github.com/MattRudy/MattRudy/blob/main/secretRedirects.md)
 
 [//]: # "You've found a secret! The 'wave' above is my personal shortlink to a project I often reference on-the-go from mobile devices."
 
