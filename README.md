@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there [👋](https://github.com/MattRudy/WhatDoIHave/blob/main/README.md)
+
+[//]: # "You've found a secret! The 'wave' above is my personal shortlink to a project I often reference on-the-go from mobile devices."
 
 I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable.
 
