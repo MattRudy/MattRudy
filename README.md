@@ -7,9 +7,11 @@ Check out some of my favourite Repos that I've contributed to:
 - https://github.com/deldersveld/PowerBI-ThemeTemplates
 - https://github.com/jsrn/howoldisit
 
-I'm hunting for issues to fix or ways to add to the following Repos:
+I also help maintain the following open-source documentation:
 - https://github.com/MicrosoftDocs/powerbi-docs
 - https://github.com/MicrosoftDocs/powerquery-docs
+
+I'm hunting for issues to fix or ways to add to the following Repos:
 - https://github.com/DaxStudio/DaxStudio
 - https://github.com/avontd2868/PowerBI-visuals
 - https://github.com/scryline/scrylines
