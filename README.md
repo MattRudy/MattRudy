@@ -1,8 +1,7 @@
 ### Hi there [👋](https://github.com/MattRudy/MattRudy/blob/main/secretRedirects.md)
-
 [//]: # "You've found a secret! The 'wave' above is my personal shortlink to a project I often reference on-the-go from mobile devices."
 
-I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable.
+I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable. You can browse these projects in my [Repository list](https://github.com/MattRudy?tab=repositories)
 
 Check out some of my favourite Repos that I've contributed to:
 - https://github.com/TabularEditor/BestPracticeRules
