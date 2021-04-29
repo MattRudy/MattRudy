@@ -1,7 +1,7 @@
 ### Hi there [👋](https://github.com/MattRudy/MattRudy/blob/main/secretRedirects.md)
 [//]: # "You've found a secret! The 'wave' above is my personal shortlink to a project I often reference on-the-go from mobile devices."
 
-I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable. You can browse these projects in my [Repository list](https://github.com/MattRudy?tab=repositories).
+I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable. You can browse these projects in my [Repository list](https://github.com/MattRudy?tab=repositories) or connect with me professionally at https://www.linkedin.com/in/rudymatt/
 
 Check out some of my favourite Repos that I've contributed to:
 - https://github.com/TabularEditor/BestPracticeRules
@@ -16,7 +16,7 @@ I'm hunting for issues to fix or ways to add to the following Repos:
 - https://github.com/DaxStudio/DaxStudio
 - https://github.com/avontd2868/PowerBI-visuals
 - https://github.com/scryline/scrylines
-
+              
 <!--
 **MattRudy/MattRudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
