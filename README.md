@@ -5,7 +5,7 @@ I'm currently working on automating tasks around the Power BI ecosystem to help 
 
 Check out some of my favourite Repos that I've contributed to:
 - https://github.com/TabularEditor/BestPracticeRules
-- https://github.com/deldersveld/PowerBI-ThemeTemplates
+- https://github.com/mattrudy/PowerBI-ThemeTemplates
 - https://github.com/jsrn/howoldisit
 
 I also help maintain the following open-source documentation:
