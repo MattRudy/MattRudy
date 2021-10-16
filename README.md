@@ -1,11 +1,13 @@
 ### Hi there [👋](https://github.com/MattRudy/MattRudy/blob/main/assets/secretRedirects.md)
 [//]: # "You've found a secret! The 'wave' above is my personal shortlink to a project I often reference on-the-go from mobile devices."
 
-I'm currently working on automating tasks around the Power BI ecosystem to help data experts spend time where it's most valuable. You can browse these projects in my [Repository list](https://github.com/MattRudy?tab=repositories) or connect with me professionally at https://www.linkedin.com/in/rudymatt/
+I'm currently working on automating tasks around data tools, particularly in the Power BI ecosystem to help data experts spend time where it's most valuable. You can browse these projects in my [Repository list](https://github.com/MattRudy?tab=repositories) or connect with me professionally at https://www.linkedin.com/in/rudymatt/
+
+I'm actively bringing a repository of Power BI Theme Templates up to date with the latest release:
+- https://github.com/MattRudy/PowerBI-ThemeTemplates
 
 Check out some of my favourite Repos that I've contributed to:
 - https://github.com/TabularEditor/BestPracticeRules
-- https://github.com/MattRudy/PowerBI-ThemeTemplates
 - https://github.com/jsrn/howoldisit
 
 I also help maintain the following open-source documentation:
